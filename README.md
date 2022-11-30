@@ -1,5 +1,6 @@
 <h1 align="center">Heyy, I'm Shivam Mishra</h1>
 <h3 align="center">A tech geek computer science student and a self-taught programmer.</h3>
+<img align="right" alt="coding" width="400" src="https://tenor.com/bAT2B.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theshvmm&label=Profile%20views&color=0e75b6&style=flat" alt="theshvmm" /> </p>
 
