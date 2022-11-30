@@ -1,8 +1,6 @@
 <h1 align="center">Heyy, I'm Shivam Mishra</h1>
 <h3 align="center">A tech geek computer science student and a self-taught programmer.</h3>
 
-<img align="right" alt="gif" width="400" height="320" src="https://tenor.com/bAT2B.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theshvmm&label=Profile%20views&color=0e75b6&style=flat" alt="theshvmm" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theshvmm" alt="theshvmm" /></a> </p>
