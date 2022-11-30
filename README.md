@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java & JS**
 
-- 💬 Ask me about **Python, Java, JS, ReactJS.**
+- 💬 Ask me about **Python, Java, JS, ReactJS, I'm happy to help!**
 
 - 📫 Catch me on **shivammishrasm2004@gmail.com**
 
