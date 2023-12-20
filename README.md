@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, JS, ReactJS, I'm happy to help!**
 
-- 📫 Catch me on **shivammishrasm2004@gmail.com**
+- 📫 Catch me on **shivamscripts@gmail.com**
 
 - ⚡ 
 
